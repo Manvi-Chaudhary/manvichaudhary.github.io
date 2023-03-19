@@ -1,0 +1,170 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color: #14233a;
+}
+ul{
+    display: flex;
+    padding: 10px;
+    justify-content:flex-end;
+    align-items: center;
+    list-style: none;
+    position: fixed;
+    width: 98%;
+    background-color: #14233a;
+}
+li{
+    margin-left: 20px;
+    color: aliceblue;
+    font-family: 'Roboto Mono', monospace;
+}
+li:hover{
+    color: #94faa5;
+}
+a{
+    all: unset;
+}
+.r{
+    border-style:solid;
+    border-color: #94faa5;
+    color: rgb(148, 250, 165);
+    border-radius: 5px;
+    padding:5px;
+    border-width: 2px;
+}
+.r:hover{
+    color: #14233a;
+    background-color: #94faa5;
+}
+.main{
+    display: flex;
+    text-shadow: whitesmoke;
+}
+.c1{
+    color: rgb(251, 196, 255);
+    margin-top:18%;
+    font-family: 'Roboto Mono', monospace;
+    font-size:x-large;
+    padding-left: 10%;
+}
+
+.c2 {
+    color: rgb(148, 250, 165);
+    font-family: 'Mochiy Pop One', sans-serif;
+    font-size:100px;
+    padding-left: 10%;
+    font-weight: 600;
+    margin-right: 10px;
+ 
+}
+
+.c3 {
+    color: rgb(251, 196, 255);
+    font-family: 'Roboto Mono', monospace;
+    font-size: xx-large;
+    padding-left: 10%;
+    
+}
+img{
+    margin-top: 70px;
+    margin-left: 15%;
+}
+    
+
+.a2{
+    display: flex;
+    margin-top: 10%;
+    padding: 10px;
+
+}   
+
+.a1{
+    
+    padding: 20px;
+    color:rgb(215, 219, 223);
+    margin-top: 10%;
+    
+    
+}
+.i2{
+    margin-left: 40px;
+    border-radius: 71% 29% 29% 71% / 88% 35% 65% 12%;
+        
+    
+
+}
+
+
+h2{
+    color:rgb(251, 196, 255);
+    font-family: 'Mochiy Pop One', sans-serif;
+    font-size: 60px;
+    font-weight: 600;
+    padding-bottom: 20px;
+    
+
+}
+p{
+    font-family:'Roboto Mono',
+        monospace;
+    padding-bottom: 20px;
+    font-size: medium;
+    color:rgb(187, 184, 184);
+}
+.fa {
+    padding: 20px;
+    font-size: larger;
+    border-radius: 50%;
+    text-align: center;
+    text-decoration: none;
+    
+
+    
+}
+.fa:hover {
+    background: #9c9595;
+}
+.fa-instagram {
+    background: #000000;
+    color: white;
+    margin: 10px;
+}
+.fa-twitter {
+    background: #000000;
+    color: white;
+    margin: 10px;
+}
+.fa-github {
+    background: #000000;
+    color: white;
+    margin: 10px;
+}
+.fa-google {
+    background: #000000;
+    color: white;
+    margin: 10px;
+}
+.fa-linkedin {
+    background: black;
+    color: white;
+    margin: 10px;
+}
+.c{
+    margin-top: 10%;
+   
+}
+#cm{
+    color: rgb(148, 250, 165);
+    font-family: 'Mochiy Pop One', sans-serif;
+    font-size: 40px;
+    margin-bottom: 20px;
+    font-weight: 600;
+    margin-left: 40%;
+}
+#icon{
+    display: flex;
+    padding: 10px;
+    margin-left: 43%;
+}
