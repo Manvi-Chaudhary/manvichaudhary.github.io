@@ -168,3 +168,9 @@ p{
     padding: 10px;
     margin-left: 40%;
 }
+@media (min-width: 600px) {
+  .p {
+    width: 50%;
+  }
+}
+
