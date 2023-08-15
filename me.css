@@ -4,7 +4,7 @@
 }
 body{
     background-color: #14233a;
-    width : 100%;
+    width: min-content;
 }
 ul{
     display: flex;
